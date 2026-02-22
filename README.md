@@ -174,9 +174,9 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## 📧 Contact
 
-Your Name - [@your_twitter](https://twitter.com/your_twitter)
-
-Project Link: [https://github.com/YOUR_USERNAME/pdf-rag-chatbot](https://github.com/YOUR_USERNAME/pdf-rag-chatbot)
+**Madhu G**
+- GitHub: [@madhug17](https://github.com/madhug17)
+- Project: [pdf-rag-chatbot](https://github.com/madhug17/pdf-rag-chatbot)
 
 ## ⭐ Show your support
 
